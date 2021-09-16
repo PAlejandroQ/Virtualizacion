@@ -23,3 +23,6 @@
 
 ### pdsh
 [Install and test pdsh - video](https://www.youtube.com/watch?v=DAiZrniaCIE)
+
+### SSH
+[ssh guide](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
