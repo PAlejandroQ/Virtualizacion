@@ -20,3 +20,6 @@
 
 ### vim
 * [Vim Cheat Sheet](https://vim.rtorr.com/)
+
+### pdsh
+[Install and test pdsh - video](https://www.youtube.com/watch?v=DAiZrniaCIE)
