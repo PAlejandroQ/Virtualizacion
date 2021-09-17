@@ -22,7 +22,14 @@
 * [Vim Cheat Sheet](https://vim.rtorr.com/)
 
 ### pdsh
-[Install and test pdsh - video](https://www.youtube.com/watch?v=DAiZrniaCIE)
+* [Install and test pdsh - video](https://www.youtube.com/watch?v=DAiZrniaCIE)
 
 ### SSH
-[ssh guide](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+* [ssh guide](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+
+### Virtualization
+* [What is virtualization?](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
+* [What is KVM?](https://www.redhat.com/en/topics/virtualization/what-is-KVM)
+* [What's the difference between cloud and virtualization?](https://www.redhat.com/en/topics/cloud-computing/cloud-vs-virtualization)
+* [What is a virtual machine (VM)?](https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine)
+* [What is a hypervisor?](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor)
