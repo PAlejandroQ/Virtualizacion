@@ -12,6 +12,7 @@
 * [KVM networking](https://computingforgeeks.com/managing-kvm-network-interfaces-in-linux/)
 * [Clone KVM vm](https://bobcares.com/blog/clone-kvm-virtual-machine/)
 * [Add network interface - KVM](https://www.geekpills.com/operating-system/linux/how-to-add-and-remove-network-device)
+* [virsh man pages](https://www.libvirt.org/manpages/virsh.html)
 
 ### VirtualBox
 * [vboxmanage guide](https://www.virtualbox.org/manual/ch08.html)
