@@ -12,12 +12,15 @@
 * [KVM networking](https://computingforgeeks.com/managing-kvm-network-interfaces-in-linux/)
 * [Clone KVM vm](https://bobcares.com/blog/clone-kvm-virtual-machine/)
 * [Add network interface - KVM](https://www.geekpills.com/operating-system/linux/how-to-add-and-remove-network-device)
+* [virsh man pages](https://www.libvirt.org/manpages/virsh.html)
 
 ### VirtualBox
 * [vboxmanage guide](https://www.virtualbox.org/manual/ch08.html)
 * [Creating a VM using vboxmanager](https://networking.ringofsaturn.com/Unix/Create_Virtual_Machine_VBoxManage.php)
 * [VirtuBox from the CLI](https://www.oracle.com/technical-resources/articles/it-infrastructure/admin-manage-vbox-cli.html)A
 * [Install VirtualBox extension](https://phoenixnap.com/kb/install-virtualbox-extension-pack)
+* [Set up a VirtualBox Lab](https://medium.com/ci-t/set-up-a-virtualbox-vm-with-4-vboxmanage-commands-9266a5ee885d)
+* [Import ovas with vboxmanage](http://www.virtualbox.org/manual/ch08.html#vboxmanage-import)
 
 ### vim
 * [Vim Cheat Sheet](https://vim.rtorr.com/)
@@ -40,5 +43,8 @@
 * [Docker Installation - CentOS](https://docs.docker.com/engine/install/centos/)
 * [Getting Starting with Docker](https://docs.docker.com/get-started/)
 * [What is Docker and How Does it Work?](https://blogs.umass.edu/Techbytes/2018/10/09/what-is-docker-and-how-does-it-work/)
-* [Docker volumens](https://docs.docker.com/storage/volumes/)
 * [Overview of Docker Compose](https://docs.docker.com/compose/)
+* [Docker volumens](https://docs.docker.com/storage/volumes/)
+* [How do docker services work?](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/)
+* [Docker services](https://docs.docker.com/engine/reference/commandline/service/)
+	* [Docker service create](https://docs.docker.com/engine/reference/commandline/service_create/)
